@@ -16,5 +16,6 @@ And, follow the prompts.
 
  
 You can run it from IDE as well. 
+
 e.g. Import source code in Intellij,right click on main class NumberGuessingAppApplication.java and hit run.
 
