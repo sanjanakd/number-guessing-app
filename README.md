@@ -15,5 +15,6 @@ And, follow the prompts.
 ***NOTE : Make sure you have java in your path
 
  
-You can run it from IDE as well, e.g. Import source code in Intellij,right click on 
-main class NumberGuessingAppApplication.java and hit run.
+You can run it from IDE as well. 
+e.g. Import source code in Intellij,right click on main class NumberGuessingAppApplication.java and hit run.
+
