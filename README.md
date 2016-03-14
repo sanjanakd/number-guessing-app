@@ -3,19 +3,18 @@
 
 # To run: 
 
-Clone it and execute following commands from project directory.
+Clone it and execute following commands from project directory. And, follow the prompts.
 
 ##1> mvn clean install
 
 ##2> java -jar target/game-0.0.1.jar 
 
-And, follow the prompts.
+
+*** Prerequisite : Make sure you have java in your path.
 
 
-***NOTE : Make sure you have java in your path
+You can run this game from IDE as well by directly invoking main class.
 
- 
-You can run it from IDE as well. 
+Import it source code a maven project in Intellij or any other IDE you like. After import, right click on main class NumberGuessingAppApplication.java and hit run. 
 
-e.g. Import source code in Intellij,right click on main class NumberGuessingAppApplication.java and hit run.
-
+To run Junit tests, right click on NumberGuessingGameTest.java file and hit run. 
