@@ -15,6 +15,6 @@ Clone it and execute following commands from project directory. And, follow the 
 
 You can run this game from IDE as well by directly invoking main class.
 
-Import it source code a maven project in Intellij or any other IDE you like. After import, right click on main class NumberGuessingAppApplication.java and hit run. 
+Import the source code a maven project in Intellij or any other IDE you like. After import, right click on main class NumberGuessingAppApplication.java and hit run. 
 
 To run Junit tests, right click on NumberGuessingGameTest.java file and hit run. 
