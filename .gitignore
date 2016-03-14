@@ -1,0 +1,20 @@
+_Store
+.project
+.classpath
+.metadata
+.settings/
+*.iml
+.idea/
+.gradle/
+build/
+bin
+/out
+logs
+gradle-app.setting
+# Ignore these 2 at just the top level.
+/target
+/orchestrator-core/
+Servers/
+.DS_Store
+*.iml
+*.log
