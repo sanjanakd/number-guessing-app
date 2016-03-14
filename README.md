@@ -1,13 +1,13 @@
-# number-guessing-app
-Number guessing game.
+# Number guessing game.
 
-To run: 
+
+# To run: 
 
 Clone it and execute following commands from project directory.
 
-1> mvn clean install
+#1> mvn clean install
 
-2> java -jar target/game-0.0.1.jar 
+#2> java -jar target/game-0.0.1.jar 
 
 And, follow the prompts.
 
